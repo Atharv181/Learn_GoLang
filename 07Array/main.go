@@ -22,6 +22,6 @@ func main() {
 	fmt.Println(surname)
 	fmt.Println("Lenght of array is",len(surname))
 	//[Bobade Hello Queen OK]
-	//Lenght of array is 4
+	 //Lenght of array is 4
 
 }

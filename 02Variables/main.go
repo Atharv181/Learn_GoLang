@@ -6,7 +6,7 @@ const Writer = "Atharv"  // Public variable
 const surname = "Bobade" // Private variable
 
 func main() {
-	// fmt.Println("Hello Variables");
+	fmt.Println("Hello Variables");
 
 	//string
 	var username string = "Atharv";

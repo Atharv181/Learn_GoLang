@@ -14,6 +14,7 @@ func main() {
 	fmt.Println("Value of array is",names)
 	//OP 
 	//Value of array is [Atharv King ]
+	//notice the space after King 
 
 	fmt.Println("Lenght of array is",len(names))
 	//Lenght of array is 3
